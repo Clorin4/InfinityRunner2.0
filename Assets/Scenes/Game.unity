@@ -1886,6 +1886,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FADE: {fileID: 7400000, guid: f40b1cf46cf4f034686741f6a27b8917, type: 2}
+  botonSalir: {fileID: 1421458339}
 --- !u!95 &578013431
 Animator:
   serializedVersion: 5
@@ -4190,9 +4191,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 139100847}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ExitGame
+      - m_Target: {fileID: 578013430}
+        m_TargetAssemblyTypeName: TrancisionEscena, Assembly-CSharp
+        m_MethodName: Salir
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4481,9 +4482,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 139100846}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: 
+      - m_Target: {fileID: 1720772074}
+        m_TargetAssemblyTypeName: TrancisionEscena, Assembly-CSharp
+        m_MethodName: Salir
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4623,6 +4624,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FADE: {fileID: 7400000, guid: f40b1cf46cf4f034686741f6a27b8917, type: 2}
+  botonSalir: {fileID: 1490392276}
 --- !u!225 &1720772075
 CanvasGroup:
   m_ObjectHideFlags: 0

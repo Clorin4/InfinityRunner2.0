@@ -164,7 +164,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6562936247863494678}
-  m_RootOrder: 7
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3118699400988223118
 SpriteRenderer:
@@ -231,7 +231,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.046595395}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -242,7 +242,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.57, y: 1.04}
+  m_Size: {x: 2.57, y: 0.9468092}
   m_EdgeRadius: 0
 --- !u!1 &2339835738416792209
 GameObject:
@@ -571,7 +571,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6562936247863494678}
-  m_RootOrder: 6
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &750156521416620707
 SpriteRenderer:
@@ -638,7 +638,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.058753803}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -649,7 +649,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.57, y: 1.04}
+  m_Size: {x: 2.57, y: 0.9224924}
   m_EdgeRadius: 0
 --- !u!1 &3681515762458509365
 GameObject:
@@ -815,7 +815,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6562936247863494678}
-  m_RootOrder: 4
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &7851914684608456786
 BoxCollider2D:
@@ -882,7 +882,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5599702265460776497}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.89, y: -0.83, z: 0}
+  m_LocalPosition: {x: -11.95, y: -0.7, z: 0}
   m_LocalScale: {x: 3.6486323, y: 1.5435586, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1150,7 +1150,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6562936247863494678}
-  m_RootOrder: 2
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6562936247718621769
 GameObject:
@@ -1181,7 +1181,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6562936247863494678}
-  m_RootOrder: 3
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6562936247742912051
 GameObject:
@@ -1281,7 +1281,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.06402007}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1292,7 +1292,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.57, y: 1.04}
+  m_Size: {x: 2.57, y: 0.9119598}
   m_EdgeRadius: 0
 --- !u!1 &6562936247863494679
 GameObject:
@@ -1325,12 +1325,12 @@ Transform:
   m_Children:
   - {fileID: 6562936247742912049}
   - {fileID: 6562936248126705808}
+  - {fileID: 904005526361125602}
+  - {fileID: 734793375329431785}
   - {fileID: 6562936247072680839}
   - {fileID: 6562936247718621768}
   - {fileID: 2095218319722317137}
   - {fileID: 8224900753430138359}
-  - {fileID: 904005526361125602}
-  - {fileID: 734793375329431785}
   - {fileID: 7356706729732181158}
   - {fileID: 9002880942789549535}
   - {fileID: 7519064698703717069}
@@ -1452,7 +1452,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.06234534}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1463,7 +1463,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.57, y: 1.04}
+  m_Size: {x: 2.57, y: 0.9153093}
   m_EdgeRadius: 0
 --- !u!1 &7751512054916951259
 GameObject:
@@ -1495,7 +1495,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6562936247863494678}
-  m_RootOrder: 5
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &4023289144587899125
 BoxCollider2D:
